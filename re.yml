@@ -1,0 +1,16 @@
+type: project
+name: "vcwin"
+
+cxx-standard: 20
+
+inherit-caller-in-deps: true
+runtime: static
+# inherit-caller-in-deps: true
+
+cxx-link-deps:
+  - Advapi32.lib
+
+cxx-build-flags:
+  compiler:
+    - /utf-8
+    - /EHsc

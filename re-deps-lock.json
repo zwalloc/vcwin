@@ -1,0 +1,11 @@
+{
+    "github:osdeverr/futile^1.0.0": "v1.0.0",
+    "github:osdeverr/ulib-env^1.0.0": "v1.0.0",
+    "github:zwalloc/barkeep^0.1.3": "v0.1.3",
+    "github:zwalloc/fops^1.0.0": "v1.0.0",
+    "github:zwalloc/ulib-fmt^1.0.0": "v1.0.0",
+    "github:zwalloc/ulib-json^1.0.0": "v1.0.0",
+    "github:zwalloc/ulib-process^1.0.0": "v1.0.0",
+    "github:zwalloc/ulib-yaml^1.0.0": "v1.0.0",
+    "github:zwalloc/ulib^1.0.0": "v1.0.0"
+}
